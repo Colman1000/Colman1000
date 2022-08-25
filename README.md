@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Colman1000
+## 👋 Hi, I’m @Colman1000
 
-**Web ∘ Mobile ∘ Embedded Systems Engineer**
+A **Web ∘ Mobile ∘ Embedded Systems Engineer**
 
 Reach me anytime :->
 
-Phone: +234 806 311 3147
-Mail: engerterseer@gmail.com
+* [+234 806 311 3147](tel://+2348063113147)
+* engerterseer@gmail.com
+* https://colman.tk
